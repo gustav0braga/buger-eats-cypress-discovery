@@ -1,0 +1,51 @@
+{
+    "signup": {
+        "name": "Gustavo Braga",
+        "cpf": "00011122233",
+        "email": "braga@gmail.com",
+        "whatsapp": "11912345678",
+        "address": {
+            "postalcode": "03513020",
+            "street": "Rua Doutor Armando Brandão",
+            "number": "225",
+            "details": "Ap 04",
+            "district": "Vila Matilde",
+            "city_state": "São Paulo/SP"
+        },
+        "deliver_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Eslen Delanogare",
+        "cpf": "x00011122233AA",
+        "email": "delanogare@gmail.com",
+        "whatsapp": "11997654321",
+        "address": {
+            "postalcode": "03822000",
+            "street": "Avenida Olavo Egídio de Souza Aranha",
+            "number": "2225",
+            "details": "Ap 1B",
+            "district": "Parque Císper",
+            "city_state": "São Paulo/SP"
+        },
+        "deliver_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Thiago Nigro",
+        "cpf": "00011122233",
+        "email": "thiago.com.br",
+        "whatsapp": "11932165487",
+        "address": {
+            "postalcode": "03540200",
+            "street": "Avenida Antônio Estevão de Carvalho",
+            "number": "2651",
+            "details": "cfc",
+            "district": "Cidade Patriarca",
+            "city_state": "São Paulo/SP"
+        },
+        "deliver_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+
+}
